@@ -33,7 +33,6 @@ This project aims to analyze car sales data to uncover pricing patterns and supp
 ## ⚙️ Workflow
 - Data Cleaning  
 - Data Transformation  
-- Data Modeling  
 - Dashboard Creation  
 - Data Analysis  
 - Insight Generation  
