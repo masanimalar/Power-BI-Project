@@ -61,9 +61,6 @@ This project aims to analyze car sales data to uncover pricing patterns and supp
 
 ---
 
-
----
-
 ## 📌 Conclusion
 This project demonstrates how different factors such as mileage, engine size, and vehicle condition influence car pricing.
 
